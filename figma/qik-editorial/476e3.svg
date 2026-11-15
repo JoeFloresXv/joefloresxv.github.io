@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="1296" height="32" viewBox="0 0 1296 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Ritmo de movimientos" clip-path="url(#clip0_0_28)">
+<path id="Vector" d="M0 26C200 -10 340 10 480 20C620 30 850 34 1000 14C1150 -6 1190 -4.76837e-07 1296 9" stroke-width="1.5" stroke="#49B3F6"/>
+<path id="Vector_2" d="M0 30C220 0 360 12 500 26C640 40 1000 12 1296 20" stroke="#D31269" stroke-opacity="0.25"/>
+</g>
+<defs>
+<clipPath id="clip0_0_28">
+<rect width="1296" height="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>
